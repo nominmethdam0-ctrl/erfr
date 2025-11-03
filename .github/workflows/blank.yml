@@ -8,8 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: Kali 2.0
-
+    runs-on: Kali Linux 2025.1a
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
