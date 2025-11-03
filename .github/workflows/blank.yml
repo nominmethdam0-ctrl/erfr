@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-24.04
+    runs-on: Kali 2025.3
 
     steps:
       - name: Checkout repository
